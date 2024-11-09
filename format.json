@@ -12,7 +12,7 @@
           "title": "Description"
         },
         {
-          "markdown": "<img src=\"https://raw.githubusercontent.com/6gr8/IGFormat/main/IGFormatLogo2.jpg\" width=\"300\"/>\n\n<br /><br />\n\n<img src=\"https://raw.githubusercontent.com/6gr8/IGFormat/main/IGFormatLogo2.jpg\" width=\"300\"/>",
+          "markdown": "<p><br />\nSource code available on <a href=\"https://github.com/6gr8/IGFormat\">GitHub</a>.\n</p>\n\n<br />\n\n<img src=\"https://raw.githubusercontent.com/6gr8/IGFormat/main/IGFormatLogo.png\" width=\"300\"/>\n\n<br /><br />\n\n<img src=\"https://raw.githubusercontent.com/6gr8/IGFormat/main/IGFormatLogo.png\" width=\"300\"/>",
           "useSpacing": true,
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
