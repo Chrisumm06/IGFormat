@@ -12,10 +12,8 @@
           "title": "Description"
         },
         {
-          "markdown": "<img src='https://hd.wallpaperswide.com/thumbs/beautiful_places_scenic_view-t2.jpg' alt='Scenic View' class='deno'>",
-          "useSpacing": true,
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
+          "class": "DepictionImageView",
+          "URL": "https://hd.wallpaperswide.com/thumbs/beautiful_places_scenic_view-t2.jpg"
         }
       ]
     },
