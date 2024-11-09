@@ -12,7 +12,7 @@
           "title": "Description"
         },
         {
-          "markdown": "https://raw.githubusercontent.com/6gr8/IGFormat/main/IGFormatLogo.png",
+          "markdown": "https://6gr8.github.io/deno.io/",
           "useSpacing": true,
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
