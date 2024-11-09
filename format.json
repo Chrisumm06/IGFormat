@@ -1,7 +1,7 @@
 {
   "class": "DepictionTabView",
   "minVersion": "0.1",
-  "tintColor": "#182126",
+  "tintColor": "#0f5187",
   "tabs": [
     {
       "tabname": "Details",
