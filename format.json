@@ -1,0 +1,34 @@
+{
+  "class": "DepictionTabView",
+  "minVersion": "0.1",
+  "tintColor": "#0f5187",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Description"
+        },
+        {
+          "markdown": "<img src='https://hd.wallpaperswide.com/thumbs/beautiful_places_scenic_view-t2.jpg' alt='Scenic View' class='deno'>",
+          "useSpacing": true,
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        }
+      ]
+    },
+    {
+      "tabname": "Links",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "title": "Twitter",
+          "action": "https://twitter.com/xDensor",
+          "class": "DepictionTableButtonView"
+        }
+      ]
+    }
+  ]
+}
