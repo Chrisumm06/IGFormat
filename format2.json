@@ -1,0 +1,34 @@
+{
+  "class": "DepictionTabView",
+  "minVersion": "0.1",
+  "tintColor": "#0f5187",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Description"
+        },
+        {
+          "markdown": "<br />\n\n<img src=\"https://raw.githubusercontent.com/FouadRaheb/AppData/master/Screenshots/1.jpg\" width=\"300\"/>\n\n<br /><br />\n\n<img src=\"https://raw.githubusercontent.com/FouadRaheb/AppData/master/Screenshots/2.jpg\" width=\"300\"/>",
+          "useSpacing": true,
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        }
+      ]
+    },
+    {
+      "tabname": "Links",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "title": "Twitter",
+          "action": "https://twitter.com/xDensor",
+          "class": "DepictionTableButtonView"
+        }
+      ]
+    }
+  ]
+}
