@@ -1,0 +1,45 @@
+{
+  "class": "DepictionTabView",
+  "minVersion": "0.1",
+  "tintColor": "#6b1f66",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Description"
+        },
+        {
+          "markdown": "- Download Videos [ Full Quality ]\n- Download Stories [ Full Quality ]\n- Copy Comments\n- Copy Captions\n- Copy Bio\n- Follow Confirmation\n- Like Confirmation\n- Refresh Confirmation\n- Embed Videos/Photos\n- Read Chats Anonymously\n- Follow Status - Green Username\n- Auto Clear Search History\n- Format Views\n- Hide Follow Prompt\n- Open Links In Comments\n- Edit Tab Bar\n- Hide Friends Tab\n- Hide Home Tab\n- Hide Create Tab\n- Hide Inbox Tab\n- Hide Profile Tab\n- Disable Pull To Refresh\n- Auto Scroll\n- Hide Ads\n- Like Confirmation In Chats\n- Open Links In Chats",
+          "useSpacing": true,
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        }
+      ]
+    },
+    {
+      "tabname": "Follow Me",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "title": "Twitter",
+          "action": "https://twitter.com/xDensor",
+          "class": "DepictionTableButtonView"
+        }
+      ]
+    },
+    {
+      "tabname": "Repo",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "title": "Repo",
+          "action": "https://6gr8.github.io/deno.io/",
+          "class": "DepictionTableButtonView"
+        }
+      ]
+    }
+  ]
+}
