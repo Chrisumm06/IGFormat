@@ -12,7 +12,7 @@
           "title": "Description"
         },
         {
-          "markdown": "- Download Videos [ Full Quality ]\n- Download Stories [ Full Quality ]\n- Copy Comments\n- Copy Captions\n- Copy Bio\n- Follow Confirmation\n- Like Confirmation\n- Refresh Confirmation\n- Embed Videos/Photos\n- Read Chats Anonymously\n- Follow Status - Green Username\n- Auto Clear Search History\n- Format Views\n- Hide Follow Prompt\n- Open Links In Comments\n- Edit Tab Bar\n- Hide Friends Tab\n- Hide Home Tab\n- Hide Create Tab\n- Hide Inbox Tab\n- Hide Profile Tab\n- Disable Pull To Refresh\n- Auto Scroll\n- Hide Ads\n- Like Confirmation In Chats\n- Open Links In Chats",
+          "markdown": "<ul>\n    <li>Download Videos [ Full Quality ]</li>\n    <li>Download Stories [ Full Quality ]</li>\n    <li>Copy Comments</li>\n    <li>Copy Captions</li>\n    <li>Copy Bio</li>\n    <li>Follow Confirmation</li>\n    <li>Like Confirmation</li>\n    <li>Refresh Confirmation</li>\n    <li>Embed Videos/Photos</li>\n    <li>Read Chats Anonymously</li>\n    <li>Follow Status - Green Username</li>\n    <li>Auto Clear Search History</li>\n    <li>Format Views</li>\n    <li>Hide Follow Prompt</li>\n    <li>Open Links In Comments</li>\n    <li>Edit Tab Bar</li>\n    <li>Hide Friends Tab</li>\n    <li>Hide Home Tab</li>\n    <li>Hide Create Tab</li>\n    <li>Hide Inbox Tab</li>\n    <li>Hide Profile Tab</li>\n    <li>Disable Pull To Refresh</li>\n    <li>Auto Scroll</li>\n    <li>Hide Ads</li>\n    <li>Like Confirmation In Chats</li>\n    <li>Open Links In Chats</li>\n</ul>",
           "useSpacing": true,
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
